@@ -1,0 +1,24 @@
+Live-Enquiry-System/
+│
+├── backend/
+│   ├── models/
+│   │   └── Enquiry.js
+│   ├── routes/
+│   │   └── enquiryRoutes.js
+│   ├── controllers/
+│   │   └── enquiryController.js
+│   ├── middleware/
+│   │   └── auth.js
+│   ├── server.js
+│
+├── frontend/
+│   ├── index.html
+│   ├── login.html
+│   ├── enquiry.html
+│   ├── admin.html
+│   ├── style.css
+│   └── script.js
+│
+├── README.md
+├── package.json
+└── .env
