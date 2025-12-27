@@ -1,0 +1,7 @@
+Enquiry {
+  name: String,
+  email: String,
+  message: String,
+  status: String, // Pending / Responded
+  createdAt: Date
+}
