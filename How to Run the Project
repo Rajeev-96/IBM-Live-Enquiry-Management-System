@@ -1,0 +1,4 @@
+git clone https://github.com/yourusername/Live-Enquiry-System
+cd Live-Enquiry-System
+npm install
+npm start
